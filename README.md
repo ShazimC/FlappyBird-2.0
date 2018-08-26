@@ -13,6 +13,7 @@ BUGS/GOALS to be worked on:
 2. Solve 1. for 60fps gameplay.
 3. Not very well organized.
 4. Leveling up mechanism: game gets more difficult as the player builds up score.
+5. Highscores should move down when there is a new high score instead of replacing the first one that is topped.
 
 FEATURES:
 1. Frame stops that make the game a bit more challenging :)
