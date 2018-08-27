@@ -11,8 +11,8 @@ HOW TO PLAY:
 BUGS/GOALS to be worked on:
 1. Lag/Frames being skipped (meaning the code isn't very memory efficient or it could be some other reason). 
 2. Solve 1. for 60fps gameplay.
-3. Not very well organized.
-4. Leveling up mechanism: game gets more difficult as the player builds up score.
+3. Code can be better organized.
+4. Add Leveling up mechanism: game gets more difficult as the player builds up score.
 5. Highscores should move down when there is a new high score instead of replacing the first one that is topped.
 
 FEATURES:
