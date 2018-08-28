@@ -9,7 +9,7 @@ HOW TO PLAY:
 5. You can create an executable file for your own operating system by going to "File" and "Export Application" on the main.pde file located in the source folder.
 
 BUGS/GOALS to be worked on:
-1. Lag/Frames being skipped (meaning the code isn't very memory efficient or it could be some other reason). 
+1. Lag/Frames being skipped (meaning the code needs to be more memory efficient or it could be some other reason).
 2. Solve 1. for 60fps gameplay.
 3. Code can be better organized.
 4. Add Leveling up mechanism: game gets more difficult as the player builds up score.
